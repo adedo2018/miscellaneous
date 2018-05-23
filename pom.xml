@@ -9,6 +9,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>powermock-example</module>
+        <module>AESEncryption</module>
     </modules>
     <packaging>pom</packaging>
 
